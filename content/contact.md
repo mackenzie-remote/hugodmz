@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2019-07-16T21:05:42+01:00
-draft: true
+draft: false
 ---
 RUN DMZ Limited is a UK based DevOps consultancy primarily serving clients in Leeds, Manchester or remotely.
 
