@@ -7,4 +7,4 @@ RUN DMZ Limited is a UK based DevOps consultancy primarily serving clients in Le
 
 Our principal consultant is MacKenzie Anderson, a senior IT contractor with over 15 years of experience.
 
-For contact details, availability and more information, please visit [LinkedIn](https://www.linkedin.com/in/mackenziecv) or send us an [Email](mailto:website2019@rundmz.co.uk)
+For contact details, availability and more information, please visit [LinkedIn](https://www.linkedin.com/in/mackenziecv).
